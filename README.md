@@ -3,12 +3,12 @@ Hi there, I'm Joffrey 👋
 </h3>
 
 <h2 align="center">
-I'm a Java / Spring Boot Developer 💻 !
+I'm a Java / Spring Boot Back-end developer 💻 !
 </h2> 
 
-I enjoy the development of application, design architecture, TDD.
+I enjoy the development of applications, design architecture, TDD, clean code, ...
 
-My goal is become a software architect 
+My goal is to become a Software architect 
 
 ### 🤝 Connect with me:
 
@@ -30,7 +30,6 @@ My goal is become a software architect
 - Design patterns
 - TDD
 - Software Craftsmanship
-- Architecture
 
 ## 💼 Technical Skills
 
