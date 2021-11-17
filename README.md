@@ -54,12 +54,13 @@ My goal is to become a Software architect
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=intellijidea&color=000000)
 
-## Hobbies
+## 👍 Hobbies
 
 🏎️ Formula 1     
 🚥 [iRacing driver since 2019](https://www.iracing.com/)    
 📚 Reading: Clean code, clean architecture, Effective java, Test Driven Development by example, Java OCP 11, ...    
 :musical_score: Music   
+🔪 Cooking    
 
 ## 📈 GitHub Stats 
 
