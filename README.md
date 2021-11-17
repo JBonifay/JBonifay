@@ -26,6 +26,7 @@ My goal is to become a Software architect
 
 ## 🌱 I'm currently learning
 
+- [Cursus Artisan développeur](https://compagnon.artisandeveloppeur.fr/courses)
 - Java 11 Oracle Certification 1Z0-819
 - Design patterns
 - TDD
@@ -44,7 +45,7 @@ My goal is to become a Software architect
 
 ![](https://img.shields.io/badge/Tools-GoogleCloudPlatform-informational?style=flat&logo=googlecloud&color=4285F4)
 ![](https://img.shields.io/badge/Tools-Aws-informational?style=flat&logo=amazonaws&color=232F3E)
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&color=E95420)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
@@ -53,12 +54,13 @@ My goal is to become a Software architect
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=intellijidea&color=000000)
 
-## 📝 Latest Blog Posts
+## Hobbies
 
-- [First article soon !]()
+🏎️ Formula 1     
+🚥 [iRacing driver since 2019](https://www.iracing.com/)    
+📚 Reading: Clean code, clean architecture, Effective java, Test Driven Development by example, Java OCP 11, ...    
+:musical_score: Music   
 
 ## 📈 GitHub Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbonifay&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbonifay)](https://github.com/anuraghazra/github-readme-stats)
