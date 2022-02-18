@@ -4,9 +4,10 @@ Hi there, I'm Joffrey 👋
 
 <h2 align="center">
 I'm a Java / Spring Boot Back-end developer 💻 !
+Actually learning Kotlin
 </h2> 
 
-I enjoy the development of applications, design architecture, TDD, clean code, ...
+I enjoy the development of applications, design architecture, TDD, clean code, Software Crafstmanship in general ...
 
 My goal is to become a Software architect 
 
@@ -22,15 +23,7 @@ My goal is to become a Software architect
 
 ## 🔭 I'm currently working on
 
-- First Medium article
-
-## 🌱 I'm currently learning
-
-- [Cursus Artisan développeur](https://compagnon.artisandeveloppeur.fr/courses)
-- Java 11 Oracle Certification 1Z0-819
-- Design patterns
-- TDD
-- Software Craftsmanship
+- Medium articles about Algorithms: The target is to explain with easy little steps.
 
 ## 💼 Technical Skills
 
