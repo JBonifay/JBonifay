@@ -21,6 +21,10 @@ My goal is to become a Software architect
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 📰 Medium articles
+
+[Big O - Introduction](https://medium.com/@joffreybonifay/big-o-notation-2d7a4a7a1bb1)
+
 ## 🔭 I'm currently working on
 
 - Medium articles about Algorithms: The target is to explain with easy little steps.
