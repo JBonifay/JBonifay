@@ -2,6 +2,8 @@
 Hi there, I'm Joffrey 👋
 </h3>
 
+[![@joffreybonifay's Holopin board](https://holopin.io/api/user/board?user=joffreybonifay)](https://holopin.io/@joffreybonifay)
+
 <h2 align="center">
 I'm a Java / Spring Boot Back-end developer 💻 !
 Actually learning Kotlin
