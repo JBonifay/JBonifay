@@ -2,7 +2,7 @@
 Hi there, I'm Joffrey 👋
 </h3>
 
-[![@joffreybonifay's Holopin board](https://holopin.io/api/user/board?user=joffreybonifay)](https://holopin.io/@joffreybonifay)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1126832486)
 
 <h2 align="center">
 I'm a Java / Spring Boot Back-end developer 💻 !
