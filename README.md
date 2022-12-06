@@ -4,14 +4,8 @@ Hi there, I'm Joffrey 👋
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1126832486)
 
-<h2 align="center">
-I'm a Java / Spring Boot Back-end developer 💻 !
-Actually learning Kotlin
-</h2> 
+I enjoy the development of applications, design architecture, TDD, clean code, Software Crafstmanship in general.
 
-I enjoy the development of applications, design architecture, TDD, clean code, Software Crafstmanship in general ...
-
-My goal is to become a Software architect 
 
 ### 🤝 Connect with me:
 
