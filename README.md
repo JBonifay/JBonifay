@@ -34,6 +34,4 @@ I enjoy the development of clean applications build from TDD, clean code, Softwa
 🔪 Cooking
 
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=JBonifay)
-</p>
+![](https://komarev.com/ghpvc/?username=JBonifay)
