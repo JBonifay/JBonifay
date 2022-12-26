@@ -2,11 +2,18 @@
 Hi there, I'm Joffrey 👋
 </h3>
 
+<p align="center">
 I enjoy the development of clean applications build from TDD, clean code, Software Craftsmanship in general.
+</p>
 
 ### 🤝 Connect with me:
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joffrey-bonifay/)
+<p align="center">
+  <a href="mailto:joffreybonifay83@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/joffrey-bonifay"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@joffreybonifay"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://stackoverflow.com/users/11873420/joffrey-bonifay"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+</p>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -23,9 +30,5 @@ I enjoy the development of clean applications build from TDD, clean code, Softwa
 🏎️ Formula 1     
 🚥 [iRacing driver since 2019](https://www.iracing.com/)    
 📚 Reading: Clean code, clean architecture, Effective java, Test Driven Development by example, Java OCP 11, ...    
-:musical_score: Music   
+🎵 Music   
 🔪 Cooking
-
-## 📈 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbonifay&show_icons=true&theme=dracula)
