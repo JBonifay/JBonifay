@@ -6,8 +6,6 @@ Hi there, I'm Joffrey 👋
 I enjoy the development of clean applications build from TDD, clean code, Software Craftsmanship in general.
 </p>
 
-![](https://komarev.com/ghpvc/?username=JBonifay)
-
 ### 🤝 Connect with me:
 
 <p align="center">
@@ -34,3 +32,8 @@ I enjoy the development of clean applications build from TDD, clean code, Softwa
 📚 Reading: Clean code, clean architecture, Effective java, Test Driven Development by example, Java OCP 11, ...    
 🎵 Music   
 🔪 Cooking
+
+
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=JBonifay)
+</p>
