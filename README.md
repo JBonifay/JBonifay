@@ -21,8 +21,18 @@ I enjoy the development of clean applications build from TDD, clean code, Softwa
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,scala,spring,idea,hibernate,mysql,maven,gradle,git,github,gitlab,docker,aws,firebase,gcp,azure,linux,vim,neovim,ableton&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,scala,spring,idea,hibernate,mysql,maven,gradle,git,github,gitlab,docker,aws,firebase,gcp,azure,linux,vim&perline=10" />
   </a>
+</p>
+
+## 💻 Leetcode progress
+
+<p align="center">
+  <a href="https://leetcode.com/joffreybonifay83"><img src="https://badges.peiyuan.ch/leetcode/joffreybonifay83/ranking?label=joffreybonifay83&logo=leetcode"/></a>
+  <a href="https://leetcode.com/joffreybonifay83"><img src="https://badges.peiyuan.ch/leetcode/joffreybonifay83/solved"/></a>
+  <a href="https://leetcode.com/joffreybonifay83"><img src="https://badges.peiyuan.ch/leetcode/joffreybonifay83/solved?difficulty=easy"/></a>
+  <a href="https://leetcode.com/joffreybonifay83"><img src="https://badges.peiyuan.ch/leetcode/joffreybonifay83/solved?difficulty=medium"/></a>
+  <a href="https://leetcode.com/joffreybonifay83"><img src="https://badges.peiyuan.ch/leetcode/joffreybonifay83/solved?difficulty=hard"/></a>
 </p>
 
 ## 👍 Hobbies
@@ -32,6 +42,5 @@ I enjoy the development of clean applications build from TDD, clean code, Softwa
 📚 Reading: Clean code, clean architecture, Effective java, Test Driven Development by example, Java OCP 11, ...    
 🎵 Music   
 🔪 Cooking
-
 
 ![](https://komarev.com/ghpvc/?username=JBonifay)
