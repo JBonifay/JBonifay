@@ -23,6 +23,8 @@ I enjoy the development of clean applications build from TDD / BDD / DDD, clean 
   </a>
 </p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/663f3883e8cf2039c5d9bb7d?variant=dark)](https://roadmap.sh)
+
 ## 👍 Hobbies
 
 🏎️ Formula 1     
