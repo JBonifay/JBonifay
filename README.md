@@ -2,8 +2,6 @@
 Hi there, I'm Joffrey 👋
 </h3>
 
-<iframe src="[http://example.com](https://rxresu.me/jbonifay/tech-lead-java)" width="600" height="400"></iframe>
-
 <p align="center">
 I enjoy the development of clean applications build from TDD / BDD / DDD, clean code, Software Craftsmanship in general.
 </p>
