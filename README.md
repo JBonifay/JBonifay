@@ -2,8 +2,6 @@
 Hi there, I'm Joffrey 👋
 </h3>
 
-My CV is available [here](https://rxresu.me/jbonifay/tech-lead-java).
-
 <p align="center">
 I enjoy the development of clean applications build from TDD / BDD / DDD, clean code, Software Craftsmanship in general.
 </p>
